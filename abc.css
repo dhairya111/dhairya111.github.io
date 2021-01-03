@@ -20,3 +20,22 @@
     font-size: 20px;
     padding-bottom: 1rem;
 }
+
+.second-flex{
+    background-color:#2ecc71;
+    color: #f0f8ff;
+}
+
+.row{
+    text-align: center;
+    padding:1rem 1rem 1rem 1rem;
+}
+
+.common-for-carousal{
+    padding:6rem 3rem 6rem 3rem;
+}
+
+.carousel-item{
+
+    font-size: 35px;
+}
